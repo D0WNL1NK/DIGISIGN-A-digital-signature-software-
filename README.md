@@ -17,7 +17,7 @@ After installing go inside the project folder.
 
 Run `maven compile`
 
-    - It will install the required jar files in to a separate repo and this will not disturbed the java configuration of the machine.
+    - It will install the required jar files in to a separate repo and this will not disturb the java configuration of the machine.
 
 Run  `mvn exec:exec -Dexec.executable="java" -Dexec.args="-classpath %classpath Login"`
 
