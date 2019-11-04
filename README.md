@@ -1,6 +1,6 @@
 # DIGISIGN - Digital Signature Transfer Project
 
-Digital Signature is mathematical technique which is used to validates the authenticity of a any file shared by a sender to one/many people.
+Digital Signature is mathematical technique which is used to validate the authenticity of a file shared by a sender to one or many people.
 
 Our project aims to encapsulate the method of creating signature certificates and sending it thorugh the LAN to a machine.
 
